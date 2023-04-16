@@ -1,0 +1,6 @@
+gunicorn
+waitress
+Flask
+numpy
+opencv-python-headless
+tensorflow-cpu
