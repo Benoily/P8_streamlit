@@ -39,7 +39,7 @@ with col2:
     st.image(mask_image)
     
 
-url = "https://p08.azurewebsites.net/predict"
+url = "https://p8a.azurewebsites.net/predict"
 content_type = 'image/png'
 headers = {'content-type': content_type}
 
